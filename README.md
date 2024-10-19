@@ -49,6 +49,7 @@ All duplicate entries have been removed.
 The data has been standardized in terms of naming conventions and formats, ensuring uniformity across the dataset.
 
 Usage
+
 To execute the SQL queries and explore the cleaned dataset:
 1. Clone the repository:
 
