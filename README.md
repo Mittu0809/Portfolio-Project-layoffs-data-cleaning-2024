@@ -13,7 +13,7 @@ Table of Contents
 - Challenges Faced
 - Outcomes
 - Usage
-
+- Dataset: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 Project Overview
 The project follows a systematic approach to data cleaning, encompassing several steps to remove duplicates, standardize data, and handle null or blank values. Each step is meticulously documented in the SQL code, making it easy to understand the processes involved.
 
