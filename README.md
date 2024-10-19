@@ -9,6 +9,7 @@ The primary objective of this project is to ensure the dataset is clean, consist
 
 Table of Contents
 - Project Overview
+- Technologies Used
 - Data Cleaning Steps
 - Challenges Faced
 - Outcomes
@@ -18,7 +19,13 @@ Table of Contents
   
 Project Overview
 
-The project follows a systematic approach to data cleaning, encompassing several steps to remove duplicates, standardize data, and handle null or blank values. Each step is meticulously documented in the SQL code, making it easy to understand the processes involved.
+This project focuses on cleaning a dataset containing information about layoffs from various companies around the world. The dataset includes details like company name, location, industry, total employees laid off, percentage laid off, date of layoffs, stage of the company, country, and funds raised in millions. The goal is to ensure the data is clean, standardized, and ready for further analysis by removing duplicates, handling NULL values, and correcting inconsistencies.
+
+Technologies Used 
+
+- SQL (MySQL)
+- Data Cleaning Techniques
+- Data Standardization Methods
 
 Data Cleaning Steps
 1. Initial Data Review: Display all records from the raw layoffs table.
