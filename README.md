@@ -39,6 +39,7 @@ The data has been standardized in terms of naming conventions and formats, ensur
 Usage
 To execute the SQL queries and explore the cleaned dataset:
 1. Clone the repository:
-   git clone https://github.com/yourusername/Portfolio-Project-layoffs-data-cleaning-2024.git
-2. Import the SQL files into your preferred database management system.
-3. Follow the documented SQL queries to review and analyze the cleaned data. 
+
+    git clone https://github.com/yourusername/Portfolio-Project-layoffs-data-cleaning-2024.git
+3. Import the SQL files into your preferred database management system.
+4. Follow the documented SQL queries to review and analyze the cleaned data. 
