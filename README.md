@@ -40,8 +40,10 @@ Challenges Faced
 - Identifying and handling duplicates required careful consideration of various fields to ensure no relevant data was lost.
 - Standardizing industry names posed challenges due to variations in naming conventions, necessitating manual checks and updates.
 - Handling null values was complex, as some entries lacked crucial information, requiring thoughtful strategies to fill gaps without compromising data integrity.
-- 
-Outcomes
+
+  
+Outcomes 
+
 The final dataset is clean, consistent, and ready for analysis.
 All duplicate entries have been removed.
 The data has been standardized in terms of naming conventions and formats, ensuring uniformity across the dataset.
